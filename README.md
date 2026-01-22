@@ -145,8 +145,9 @@ Gold Medalist, BS Software Engineering. Former Lead Developer. Currently accepti
 </div>
 
 <br />
+
 ---
+
 <div align="center">
   <sub>© 2025 Sajid Ali · Built with precision</sub>
 </div>
-
