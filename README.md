@@ -36,7 +36,8 @@ I’ve worked with **startups, agencies, and international clients (USA, Mexico,
 - 🏆 **Gold Medalist** in BS Software Engineering
 - 🚀 Passionate about **real-world problem-solving apps**
 
-> _“Great mobile apps feel effortless to the user.”_
+> _“Good Apps works, Great Apps feel effortless”_
+> > _“My Goal is to deliver Complete, Correct and Consistent Apps”_
 
 ---
 
@@ -128,7 +129,7 @@ I’ve worked with **startups, agencies, and international clients (USA, Mexico,
 
 📧 **Email:** afridisajid659@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/sajid-ali-47a9b417a/  
-💻 **GitHub:** https://github.com/afridisajid  
+💻 **GitHub:** https://github.com/SajidAfridi 
 
 ---
 
