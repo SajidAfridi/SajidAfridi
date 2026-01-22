@@ -119,7 +119,7 @@ Gold Medalist, BS Software Engineering. Former Lead Developer. Currently accepti
 <sub>
 · Custom Widgets: Advance custom widgets and Animation learning<br />
 · App Architecture - Increasing my knowledge about different kind of Architectures in details<br />
-· Scalability = Scalable Flutter application patterns<br />
+· Scalability - Scalable Flutter application patterns<br />
 </sub>
 
 <br />
