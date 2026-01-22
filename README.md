@@ -1,78 +1,99 @@
-# 👋 Hello, I’m **Sajid Ali**
+<h1 align="center">
+  Hi 👋, I'm Sajid Ali
+</h1>
 
-**Lead Flutter Developer | Mobile App Architect | Turning Ideas into Scalable Apps | Freelancer & Startup Partner 🚀**
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Lead+Flutter+Developer;Flutter+Freelancer+on+Upwork;Android+%26+iOS+App+Developer;Building+Scalable+Mobile+Apps" alt="Typing SVG" />
+</h3>
 
-I’m a **Lead Flutter Developer** with **3+ years of hands-on experience** building **production-ready Android & iOS apps** from scratch — from idea → UI/UX → backend → testing → store publishing.  
-I’ve worked with **startups, agencies, and global clients (USA, Mexico, Qatar)** and love building **clean, fast, and meaningful mobile products**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-Expert-blue?logo=flutter" />
+  <img src="https://img.shields.io/badge/Dart-Advanced-0175C2?logo=dart" />
+  <img src="https://img.shields.io/badge/Firebase-Cloud-orange?logo=firebase" />
+  <img src="https://img.shields.io/badge/Android-App%20Development-green?logo=android" />
+  <img src="https://img.shields.io/badge/iOS-App%20Development-black?logo=apple" />
+  <img src="https://img.shields.io/badge/Upwork-Top%20Flutter%20Freelancer-6FDA44?logo=upwork" />
+</p>
+
+---
+
+## 🚀 Lead Flutter Developer | Mobile App Architect | Flutter Freelancer
+
+I am a **Lead Flutter Developer** with **3+ years of professional experience** in **Flutter mobile app development**, building **high-performance Android & iOS applications** from a **single codebase**.
+
+I specialize in **end-to-end app development** — from **idea & UI/UX design** to **backend integration and Play Store / App Store publishing**.
+
+I’ve worked with **startups, agencies, and international clients (USA, Mexico, Qatar)** to deliver **scalable, secure, and production-ready mobile apps**.
 
 ---
 
 ## 💡 About Me
-- 📱 **Flutter-first developer** — Android & iOS from a single, clean codebase
-- 🧠 Strong in **end-to-end app development** (UI, logic, backend & deployment)
-- 🔥 Passionate about **performance, clean architecture & smooth UX**
-- 🌍 **Freelancer on Upwork**, working with international clients remotely
-- 🧑‍💻 Former **Lead Flutter Developer** managing remote teams & solo projects
+- 📱 Expert in **Flutter & Dart** for Android and iOS
+- 🧠 Strong experience in **complete app lifecycle**
+- 🔥 Focused on **clean architecture, performance & scalability**
+- 🌍 **Flutter Freelancer on Upwork**
+- 🧑‍💻 Former **Lead Flutter Developer**
 - 🏆 **Gold Medalist** in BS Software Engineering
-- 🚀 I build apps that **solve real-world problems**, not just demos
+- 🚀 Passionate about **real-world problem-solving apps**
 
-> _“Good apps work. Great apps feel effortless.”_
+> _“Great mobile apps feel effortless to the user.”_
+
+---
+
+## 🧩 Featured Flutter Projects
+
+### 💸 Fintech Mobile App
+**Flutter • Firebase • Stripe**
+- PayPal-style money transfers
+- Secure authentication & transactions
+- Real-time updates
+
+### 🏥 Real-Time Health Worker Tracking App
+**Flutter • Google Maps • Firebase**
+- Live location tracking
+- Worker assignment & monitoring
+- Map polylines & markers
+
+### 🏗 Civil Engineering Calculator
+**Flutter • Offline-first**
+- 250+ offline engineering formulas
+- Optimized for field engineers
+- AdMob monetization
+
+### 🎓 Education Quiz App + Admin Panel
+**Flutter • Firebase**
+- Role-based access
+- Real-time quiz management
+- Analytics-ready
+
+### 🎮 Multiplayer Tic Tac Toe
+**Flutter • WebSockets**
+- Real-time multiplayer gameplay
+- Matchmaking logic
 
 ---
 
 ## 🚀 Technical Skills
 
-### ✅ **Flutter & Dart**
-- Responsive UI & Custom Widgets  
-- Animations & Smooth Transitions  
-- App Performance Optimization  
-- Material & Cupertino Design  
+### ✅ Flutter & Dart
+- Custom UI & Responsive Design
+- Animations & Transitions
+- Performance Optimization
 
-### ✅ **Backend & API Integration**
-- REST APIs (**Dio, HTTP**)  
-- Real-time data handling  
-- Third-party SDK integrations  
+### ✅ Backend & Firebase
+- Firebase Auth, Firestore, Realtime DB
+- Push Notifications (FCM)
+- Analytics & Crashlytics
 
-### ✅ **Firebase & Cloud**
-- 🔐 Authentication (Email, OTP, Social)
-- 📦 Firestore & Realtime Database
-- 🔔 Push Notifications (FCM)
-- 📊 Analytics & Crashlytics
-- ☁️ Firebase Hosting & Functions (basic)
+### ✅ Architecture & State Management
+- BLoC (Clean Architecture)
+- Provider / Riverpod
+- GetX
 
-### ✅ **State Management & Architecture**
-- **BLoC (Clean Architecture)**  
-- **Provider / Riverpod**  
-- **GetX**
-
-### ✅ **Maps & Location-Based Apps**
-- Google Maps Integration  
-- Live Location Tracking  
-- Polylines & Custom Markers  
-- Real-time worker/user tracking  
-
-### ✅ **Payments & Monetization**
-- 💳 Stripe Integration  
-- 📱 In-App Purchases  
-- 📢 Google AdMob & Ads Integration  
-
-### ✅ **Publishing & DevOps**
-- Google Play Store (Apps & Games)  
-- Apple App Store Deployment  
-- Git & GitHub  
-- CI basics & version control best practices  
-
----
-
-## 🧩 Projects I’ve Built
-- 💸 **Fintech App** (PayPal-style transactions)
-- 🏥 **Real-time Health Worker Tracking App**
-- 🏗 **Civil Engineering Calculator (250+ offline formulas)**
-- 🎓 **Edu Quiz Platform + Admin App**
-- 👶 **Kids Learning App** with animations
-- 🎮 **Multiplayer Tic Tac Toe** (WebSocket)
-- 🏏 **Cricket App** using ICC API
-- 📦 Multiple **production apps published on Play Store**
+### ✅ Maps & Payments
+- Google Maps SDK
+- Live Location Tracking
+- Stripe & AdMob Integration
 
 ---
 
@@ -88,18 +109,29 @@ I’ve worked with **startups, agencies, and global clients (USA, Mexico, Qatar)
 
 ---
 
-## 🌍 Let’s Connect
+## 💼 Hire Me on Upwork 🚀
 
-📧 **Email:** afridisajid659@gmail.com  
-💼 **LinkedIn:** [Sajid Ali](https://www.linkedin.com/in/sajid-ali-47a9b417a/)  
-💻 **GitHub:** [afridisajid](https://github.com/afridisajid)
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~01914b6235a04da5c3?mp_source=share">
+    <img src="https://img.shields.io/badge/Hire%20Me%20on-Upwork-6FDA44?style=for-the-badge&logo=upwork" />
+  </a>
+</p>
+
+✅ Flutter App Development  
+✅ Startup MVPs  
+✅ Bug Fixing & Performance Optimization  
+✅ Play Store & App Store Publishing  
 
 ---
 
-### 🤝 Open to:
-- Freelance Flutter Projects  
-- Startup MVPs  
-- Long-term Remote Roles  
-- Consulting & App Reviews  
+## 🌍 Connect With Me
 
-📢 **Let’s build something impactful together.** 🚀
+📧 **Email:** afridisajid659@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/sajid-ali-47a9b417a/  
+💻 **GitHub:** https://github.com/afridisajid  
+
+---
+
+<p align="center">
+  📢 <strong>Let’s build scalable Flutter apps together.</strong> 🚀
+</p>
