@@ -31,7 +31,7 @@ Gold Medalist, BS Software Engineering. Former Lead Developer. Currently accepti
 <br />
 
 ### Mindset
->_ "My Goal is deliver Complete, Correct, And Consistent Apps"
+>- "My Goal is deliver Complete, Correct, And Consistent Apps"
 
 <br />
 
