@@ -24,7 +24,7 @@
 
 ### About
 
-Senior Flutter developer specializing in scalable mobile architectures. Three years crafting production applications for startups and enterprises across USA, Mexico, and Qatar.
+Senior Flutter developer specializing in scalable mobile architectures. Three years crafting production applications for startups and enterprises across USA, Mexico, and Qatar. I am ready to always learn and implement something new, something exciting!
 
 Gold Medalist, BS Software Engineering. Former Lead Developer. Currently accepting select freelance projects via Upwork.
 
@@ -117,9 +117,9 @@ Gold Medalist, BS Software Engineering. Former Lead Developer. Currently accepti
 ### Current Focus
 
 <sub>
-· WorkSphere - Multi-service marketplace platform<br />
-· Advanced Firebase security rules & architecture<br />
-· Scalable Flutter application patterns<br />
+· Custom Widgets: Advance custom widgets and Animation learning<br />
+· App Architecture - Increasing my knowledge about different kind of Architectures in details<br />
+· Scalability = Scalable Flutter application patterns<br />
 </sub>
 
 <br />
