@@ -52,20 +52,85 @@ Gold Medalist, BS Software Engineering. Former Lead Developer. Currently accepti
       <sub>Live location monitoring for field operations</sub>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
+  <!-- html -->
+<style>
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  .card {
+    box-sizing: border-box;
+    padding: 1rem;
+    background: #ffffff;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    aspect-ratio: 1 / 1; /* ensures height == width */
+    min-width: 0;
+    /* subtle Quiet Luxury styling */
+    color: #222;
+    border: 1px solid rgba(0,0,0,0.06);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+  }
+
+  /* Fallback for browsers without aspect-ratio */
+  .card--fallback {
+    position: relative;
+    padding-top: 100%; /* square */
+  }
+  .card--fallback > .card-content {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    box-sizing: border-box;
+  }
+
+  .card h4 { margin: 0 0 0.25rem; font-weight: 600; letter-spacing: 0.2px; }
+  .card sub,
+  .card .muted { color: #666; display: block; margin-top: 0.25rem; font-size: 0.95rem; }
+  @media (max-width: 600px) {
+    .grid { grid-template-columns: 1fr; }
+  }
+</style>
+
+<div class="grid">
+  <div class="card">
+    <h4>Engineering Calculator</h4>
+    <sub>Flutter · Offline-first</sub>
+    <div class="muted">250+ formulas optimized for field engineers</div>
+  </div>
+
+  <div class="card">
+    <h4>Education Platform</h4>
+    <sub>Flutter · Firebase · Analytics</sub>
+    <div class="muted">Role-based quiz system with admin panel</div>
+  </div>
+</div>
+
+<!--
+Fallback example (if you must keep table markup or support very old browsers):
+<td width="50%">
+  <div class="card card--fallback">
+    <div class="card-content">
       <h4>Engineering Calculator</h4>
       <sub>Flutter · Offline-first</sub>
-      <br />
-      <sub>250+ formulas optimized for field engineers</sub>
-    </td>
-    <td width="50%">
-      <h4>Education Platform</h4>
-      <sub>Flutter · Firebase · Analytics</sub>
-      <br />
-      <sub>Role-based quiz system with admin panel</sub>
-    </td>
-  </tr>
+      <div class="muted">250+ formulas optimized for field engineers</div>
+    </div>
+  </div>
+</td>
+-->
+
 </table>
 
 <br />
