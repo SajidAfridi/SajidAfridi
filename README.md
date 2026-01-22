@@ -31,7 +31,7 @@ Gold Medalist, BS Software Engineering. Former Lead Developer. Currently accepti
 <br />
 
 ### Mindset
->_ "Good apps work. Great apps feel effortless. My goal: Complete. Correct. Consistent."
+>_ "My Goal is deliver Complete, Correct, And Consistent Apps"
 
 <br />
 
@@ -73,7 +73,7 @@ Gold Medalist, BS Software Engineering. Former Lead Developer. Currently accepti
 ### Technical Expertise
 
 <details>
-<summary><sub>CORE COMPETENCIES</sub></summary>
+<summary>CORE COMPETENCIES</summary>
 
 <br />
 
@@ -140,15 +140,12 @@ Gold Medalist, BS Software Engineering. Former Lead Developer. Currently accepti
   </a>
   
   <br /><br />
-  
   <sub>Open to discussing your next mobile project.</sub>
   
 </div>
 
 <br />
-
 ---
-
 <div align="center">
   <sub>© 2025 Sajid Ali · Built with precision</sub>
 </div>
